@@ -24,3 +24,11 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+## Notes
+
+### AWS Sandbox
+
+Start session url: https://d-926780d1e2.awsapps.com/start
+Region: us-west-2
+Username: amplify-admin
